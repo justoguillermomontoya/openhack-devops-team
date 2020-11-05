@@ -22,10 +22,10 @@
 # directory at the root of the repository and any of its
 # subdirectories.
 /build/logs/ @justoguillermomontoya
-/apis/poi/
-/apis/trips/
-/apis/user-java/
-/apis/userprofile/
+/apis/poi/ @justoguillermomontoya
+/apis/trips/ @justoguillermomontoya
+/apis/user-java/ @justoguillermomontoya
+/apis/userprofile/ @justoguillermomontoya
 
 # The `docs/*` pattern will match files like
 # `docs/getting-started.md` but not further nested files like
